@@ -26,6 +26,7 @@
         <option value="$MODULE_DIR$/templates" />
         <option value="$MODULE_DIR$/apps/hello_world/templates" />
         <option value="$MODULE_DIR$/apps/portfolio/templates" />
+        <option value="$MODULE_DIR$/apps/tech_blog/templates" />
       </list>
     </option>
   </component>
